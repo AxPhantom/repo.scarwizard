@@ -3,9 +3,9 @@
 <addon id="repository.wukongwizard" name="[COLOR crimson][B]Wukong[/B][/COLOR]Wizard Repository" version="2.5" provider-name="Macaulay">
     <extension point="xbmc.addon.repository" name="[COLOR crimson][B]Ragnarok[/B][/COLOR]Wizard Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/Master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/Master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/Master/zips/</datadir>
         </dir>
     </extension>
 
