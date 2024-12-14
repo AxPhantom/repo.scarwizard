@@ -15,7 +15,7 @@
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <fanart>fanart.png</fanart>
         </assets>
         <source>https://www.github.com/AxPhantom/repository.wukongwizard/</source>
     </extension>
